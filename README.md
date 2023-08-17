@@ -1,4 +1,4 @@
-# RPi_SenseHAT_Experiments
+# RPi SenseHAT Experiments
 
 ![Sense HAT](sensehat.jpg)
 
